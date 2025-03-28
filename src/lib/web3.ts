@@ -13,8 +13,8 @@ const wagmiAdapter = new WagmiAdapter({
 
 const metadata = {
   name: 'ProfitFlip',
-  description: 'AppKit Example',
-  url: 'https://reown.com/appkit',
+  description: 'BTC Prediction Game',
+  url: 'https://profitflip.online',
   icons: ['https://assets.reown.com/reown-profile-pic.png']
 };
 
