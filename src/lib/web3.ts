@@ -24,6 +24,7 @@ export const modal = createAppKit({
   metadata,
   projectId,
   features: {
-    analytics: true
+    analytics: true,
+    connectMethodsOrder: ['wallet'],
   }
 });
